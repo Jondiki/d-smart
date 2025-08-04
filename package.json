@@ -1,5 +1,18 @@
 {
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "name": "d-smart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/express": "^5.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
